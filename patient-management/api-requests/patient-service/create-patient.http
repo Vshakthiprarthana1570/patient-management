@@ -1,0 +1,13 @@
+### GET request to example server
+POST localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name" : "Shakthi",
+  "email": "parameter15@gmail.com",
+  "address": "Thanjavur - 614704",
+  "dateOfBirth": "2000-07-15",
+  "registeredDate": "2000-03-15"
+}
+
+###
